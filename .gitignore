@@ -1,0 +1,20 @@
+﻿# Rider
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sln.iml
+*.DotSettings.user
+/.idea/*
+
+# Build artifacts
+bin/
+obj/
+
+# Local development settings
+appsettings.Development.json
+
+# Visual Studio Code
+.vscode/
+
+identifier.sqlite
